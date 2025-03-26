@@ -19,6 +19,7 @@
 @media (max-width:900px) {
     .chat-container{
         display: flex;
+        overflow-y: hidden;
     }
     .loading{
         font-size: 30px;
