@@ -7,12 +7,12 @@ import { toast } from "react-toastify";
 // --------- Paste Your Firebase Config File Here ---------
 
 const firebaseConfig = {
-    apiKey: "AIzaSyADwKKiTQegjPGJIKmlRWGg_I8mk3gsIt8",
-    authDomain: "chatapp-4ffbd.firebaseapp.com",
-    projectId: "chatapp-4ffbd",
+    apiKey: "AIzaSyAZkv6BX4VlLZfEWHZ1ctM6WwEZgNNcAF0",
+    authDomain: "chatapp-bf1d7.firebaseapp.com",
+    projectId: "chatapp-bf1d7",
     storageBucket: "chat-app-10482.appspot.com",
-    messagingSenderId: "965731544957",
-    appId: "1:965731544957:web:e3ce6aab4a7cc7361a2614"
+    messagingSenderId: "117557215625",
+    appId: "1:117557215625:web:945e25a1ab227836702158"
   }
 
 //   personal storagebucket-non-work: chatapp-4ffbd.firebasestorage.app
