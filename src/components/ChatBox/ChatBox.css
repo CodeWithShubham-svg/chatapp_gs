@@ -8,7 +8,7 @@
     display: flex;
     align-items: center;
     gap: 10px;
-    border-bottom: 1px solid #C6C6C6;
+    border: 2px solid #c1cde5
 }
 .chat-user img {
     width: 25px;
